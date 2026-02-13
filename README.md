@@ -69,8 +69,8 @@ apion:
 ## 📊 SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apionjm&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apionjm&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ apion:
 ## 📡 CONNECT
 
 ```bash
-EMAIL: your@email.com
+EMAIL: oshayne@apionlabs.org
 LOCATION: JAMAICA
 BRAND: APION
 STATUS: AVAILABLE FOR PROJECTS
